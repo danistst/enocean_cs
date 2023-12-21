@@ -3,8 +3,8 @@ import logging
 
 from homeassistant.const import Platform
 
-DOMAIN = "my_enocean"
-DATA_ENOCEAN = "my_enocean"
+DOMAIN = "enocean_cs"
+DATA_ENOCEAN = "enocean_cs"
 ENOCEAN_DONGLE = "dongle"
 
 ERROR_INVALID_DONGLE_PATH = "invalid_dongle_path"

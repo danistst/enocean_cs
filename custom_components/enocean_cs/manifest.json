@@ -1,7 +1,7 @@
 {
-  "domain": "my_enocean",
-  "name": "EnOcean Custom",
-  "documentation": "https://www.home-assistant.io/integrations/enocean",
+  "domain": "enocean_cs",
+  "name": "EnOcean with Cover Support",
+  "documentation": "https://github.com/bakkerv/enocean_cs",
   "requirements": ["py-enocean==0.52"],
   "codeowners": ["@bakkerv"],
   "config_flow": true,
